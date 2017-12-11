@@ -1,4 +1,4 @@
-[![GitHub release](https://img.shields.io/github/release/chongjk88/hello-world.svg)](https://github.com/cirept/salesforceToolbar/releases)
+[![GitHub release](https://img.shields.io/github/release/chongjk88/hello-world.svg)](https://github.com/chongjk88/hello-world/releases)
 [![GitHub version](https://img.shields.io/github/version/chongjk88/hello-world.svg)](https://github.com/chongjk88/hello-world/versions)
 
 # hello-world
